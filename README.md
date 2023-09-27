@@ -1,0 +1,11 @@
+# EduNFT
+
+EduNFT is created for Higher Education Institutions, offering an innovative approach to acknowledge and honor academic excellence via NFTs. At its foundation, it acts as a link connecting educators and learners, enabling teachers to create NFTs as incentives or badges that may later be given to entitled student users. Their digital crypto wallets can be utilized for storing these NFTs, which stand for distinctive digital assets. Moreover, students are then able to view their earned NFTs via their Web3 profiles as well as flex them on social media.
+
+EduNFT is a dApp built on the Polygon blockchain. This deliberate use of polygon blockchain capitalizes on its fundamental benefits, like increased security, uncompromising transparency, and decentralization, as well as facilitating quick and affordable transactions. 
+
+Admins, teachers, and students are the three main users that EduNFT's services target to. Teacher and admin users possess the capacity to create and transfer NFTs. Moreover, admins possess the power to govern both teacher and student users on EduNFT. Student users can receive and interact with these distinctive NFTs on the other end. 
+
+EduNFT's core value is a smooth user experience, which is exhibited through a simple UI design that has been carefully developed to be clear and easy to navigate. The incorporation of different crypto wallets adds another level of accessibility to users regarding their selection of the digital crypto wallet, amplifying this focus on user satisfaction.
+ 
+EduNFT places a high focus on security, and to protect its validity and personal information, methods including database inspections, authorization, and backup of data and recovery plans are firmly in effect. In simple terms, EduNFT marks a major advancement in the way that HEIs use technological advances. Rethinking conventional approaches and giving them the creative potential offered by blockchain and NFTs, opens novel and intriguing options for honoring and distributing academic accomplishments. This blending with learning and the latest technology signifies a significant change in scholarly recognition and reward mechanisms, opening the door for an era in which education will be more digitally linked.
